@@ -30,7 +30,7 @@ def main():
     n = int(splitted_first_line[0])
     m = int(splitted_first_line[1])
     
-    # assert(m == len(runtimes))
+    assert(m == len(runtimes))
     
     # n - thread count 
     # m - job count
